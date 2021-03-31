@@ -43,7 +43,7 @@ INSERT INTO `corso` (`codins`, `crediti`, `nome`, `pd`) VALUES
 	('09AQGPG', 8, 'Economia aziendale', 1),
 	('10BDAPG', 8, 'Gestione dei progetti', 1);
 /*!40000 ALTER TABLE `corso` ENABLE KEYS */;
-
+iscritticorsi
 
 -- Dump della struttura di tabella iscritticorsi.iscrizione
 CREATE TABLE IF NOT EXISTS `iscrizione` (
